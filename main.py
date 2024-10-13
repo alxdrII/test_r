@@ -1,8 +1,8 @@
-class FirstClass():
+class FirstClass:
     """Первый"""
     pass
 
 
-class SecondClass():
+class SecondClass:
     """Второй"""
     pass
